@@ -1,4 +1,4 @@
-# csgo_autoexe.cfg
+[autoexe.cfg](https://github.com/Pantyhose-X/csgo_autoexe.cfg/releases/download/1/autoexe.cfg)
 
 (Drive):\ProgramFiles(86)\Steam\userdata\[PLAYER STEAM ID]\730\local\cfg\
 
